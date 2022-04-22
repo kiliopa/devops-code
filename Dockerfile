@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat 
+From kserge2001/devops-code 
 
 # Maintainer 
 MAINTAINER "gaylordkiliopa@gmail.com" 
